@@ -25,6 +25,8 @@ public class SampleServer[T] {
       //バッファされてすぐには送られない。
       oos.flush();
     }
-    catch(Exception e){ e.printStackTrace};
-
+    catch(Exception e){ e.printStackTrace();}
+  }
+  
+}
 
