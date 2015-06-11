@@ -6,6 +6,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+//test
 
 public class DBinsert {
     public static void main(String[] args) throws SQLException {
